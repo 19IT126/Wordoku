@@ -25,8 +25,11 @@ The package Wordoku consists of five files:
 
 > To run this application download the full 'Wordoku' package and configure it with your IDE. Now simply run the Main.java file and you are good to go.
 
-> Refer demonstration video for details on how to play.
-
 ## Other Information
 
 > [Technical Paper](https://drive.google.com/file/d/1ly-DeLEGp8dMHVQ9lucy7CR2egr3zBNL/view?usp=sharing)
+
+## Demo Images
+![image](https://user-images.githubusercontent.com/68849822/153708073-882b06b1-1407-4ddd-ada0-31d9a7840335.png)
+![image](https://user-images.githubusercontent.com/68849822/153708125-5bc29d90-8b6e-4e86-ade3-cfde91043563.png)
+
