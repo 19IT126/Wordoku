@@ -29,7 +29,5 @@ The package Wordoku consists of five files:
 
 > [Technical Paper](https://drive.google.com/file/d/1ly-DeLEGp8dMHVQ9lucy7CR2egr3zBNL/view?usp=sharing)
 
-## Demo Images
-![image](https://user-images.githubusercontent.com/68849822/153708073-882b06b1-1407-4ddd-ada0-31d9a7840335.png)
-![image](https://user-images.githubusercontent.com/68849822/153708125-5bc29d90-8b6e-4e86-ade3-cfde91043563.png)
+> [Video Demonstartion](https://drive.google.com/file/d/1N_hABKUdx0zsO9LPb0T2cAy58xOdEQM1/view?usp=sharing)
 
